@@ -1,0 +1,1583 @@
+{
+  "slug": "stretch-recovery-az",
+  "brand": "Stretch Recovery Lounge",
+  "field_count": 259,
+  "franchiseFee": 45000,
+  "totalInvestmentMin": 97950,
+  "totalInvestmentMax": 170950,
+  "royaltyFee": "6% of Gross Revenues",
+  "royaltyPercent": 6,
+  "totalUnits": 8,
+  "openLocations": 8,
+  "corporateCity": "Rockaway",
+  "corporateState": "NJ",
+  "corporateZip": "07866",
+  "corporateAddress": "6 Ivy Crest Lane, Rockaway, NJ 07866",
+  "hq_source": "FDD Item 1, p6 — franchisor principal office",
+  "description": "Stretch Recovery Lounge is an assisted-stretching and athletic-recovery franchise founded in New Jersey in 2019. Its studios offer one-on-one practitioner-assisted stretching and recovery services to clients ages 5 and up, with a core clientele of adults ages 40 to 65. The franchisor, Stretch Recovery Lounge Franchising LLC, began offering franchises in January 2024 and operates company-owned studios in New Jersey and New York. The franchise model is a 400 to 1,500 sq ft facility with a protected 3-mile or 15,000-population territory, a $45,000 initial franchise fee, a 6% royalty, and an estimated initial investment of $97,950 to $170,950.",
+  "category": "Health & Fitness - Assisted Stretching",
+  "websiteUrl": "https://stretchrecoverylounge.com",
+  "yearFounded": 2019,
+  "yearFranchising": 2024,
+  "fddYear": 2025,
+  "territoryDescription": "3 miles or a population of 15,000 persons, whichever is less. Non-exclusive system with franchisor carve-outs (FDD Item 12, pp34-36).",
+  "item12": "3 miles or 15,000 population, whichever is less (FDD Item 12, p34)",
+  "item20PinCount": 8,
+  "item20_fdd_count": 6,
+  "item20_reconciliation": "FDD Item 20 (p58, as of 2024-12-31): 6 company-owned, 0 franchised. Official location finder (2026-09-12): 8 open locations. Net +2 since FDD date.",
+  "pins": [
+    {
+      "city": "Bridgewater",
+      "state": "NJ",
+      "address": "1301 Route 22 East, Bridgewater, NJ 08807",
+      "latitude": 40.5935,
+      "longitude": -74.6252,
+      "pin_source": "Nominatim zip 08807 centroid; address per official locations finder"
+    },
+    {
+      "city": "Hoboken",
+      "state": "NJ",
+      "address": "223 Bloomfield Street, Hoboken, NJ 07030",
+      "latitude": 40.739603,
+      "longitude": -74.030875,
+      "pin_source": "official site locations page exact location"
+    },
+    {
+      "city": "Maplewood",
+      "state": "NJ",
+      "address": "1910 Springfield Avenue, Maplewood, NJ 07040",
+      "latitude": 40.7204559,
+      "longitude": -74.2719025,
+      "pin_source": "Nominatim address geocode; address per official locations finder"
+    },
+    {
+      "city": "Montclair",
+      "state": "NJ",
+      "address": "130 Valley Road, Montclair, NJ 07042",
+      "latitude": 40.822131,
+      "longitude": -74.21995,
+      "pin_source": "official site locations page exact location"
+    },
+    {
+      "city": "NYC Upper East",
+      "state": "NY",
+      "address": "326 East 65th Street, New York, NY 10065",
+      "latitude": 40.7637324,
+      "longitude": -73.960641,
+      "pin_source": "Nominatim address geocode; address per official locations finder"
+    },
+    {
+      "city": "Ridgewood",
+      "state": "NJ",
+      "address": "29 Godwin Avenue, Ridgewood, NJ 07450",
+      "latitude": 40.979107,
+      "longitude": -74.122793,
+      "pin_source": "official site locations page exact location"
+    },
+    {
+      "city": "Tenafly",
+      "state": "NJ",
+      "address": "37 Riveredge Road, Tenafly, NJ 07670",
+      "latitude": 40.92728,
+      "longitude": -73.966579,
+      "pin_source": "official site locations page exact location"
+    },
+    {
+      "city": "Westfield",
+      "state": "NJ",
+      "address": "307 South Avenue West, Westfield, NJ 07090",
+      "latitude": 40.648753,
+      "longitude": -74.346367,
+      "pin_source": "official site locations page exact location"
+    }
+  ],
+  "breakdown": {
+    "absolute_cited": 242,
+    "theoretical": 9,
+    "matching": 8,
+    "total": 259
+  },
+  "fields": {
+    "franchisor_legal_name": {
+      "value": "Stretch Recovery Lounge Franchising LLC",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "franchisor_entity_type": {
+      "value": "New Jersey Limited Liability Company",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "franchisor_formed_date": {
+      "value": "2024-01-19",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "franchisor_principal_office": {
+      "value": "6 Ivy Crest Lane, Rockaway, NJ 07866",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "franchisor_parents": {
+      "value": "no parents disclosed",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "franchisor_predecessors": {
+      "value": "no predecessors in prior 10 years",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "franchisor_affiliates": {
+      "value": "Stretch Recovery Lounge, LLC",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "trademark_owner_entity": {
+      "value": "affiliate Stretch Recovery Lounge (perpetual license to franchisor)",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "affiliate_operating_since": {
+      "value": "October 2019",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "franchisor_franchising_since": {
+      "value": "2024-01-25",
+      "type": "absolute",
+      "item": "FDD Item 1, p.7"
+    },
+    "franchisor_other_business_lines": {
+      "value": "no other line of business; no franchises in any other line",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "franchisor_approved_supplier_self": {
+      "value": "not currently an approved supplier to franchisees",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "franchise_business_concept": {
+      "value": "assisted stretching and athletic recovery facility",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "franchise_model_concept": {
+      "value": "Facility (Model Concept)",
+      "type": "absolute",
+      "item": "FDD Item 12, p.34"
+    },
+    "area_development_offered": {
+      "value": true,
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "area_development_area": {
+      "value": "Development Area per Development Schedule in Area Development Agreement",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "industry_seasonality": {
+      "value": "not seasonal",
+      "type": "absolute",
+      "item": "FDD Item 1, p.7"
+    },
+    "target_audience_min_age": {
+      "value": "5 years old and up",
+      "type": "absolute",
+      "item": "FDD Item 1, p.7"
+    },
+    "target_audience_core": {
+      "value": "most clientele between ages 40 and 65",
+      "type": "absolute",
+      "item": "FDD Item 1, p.7"
+    },
+    "market_competition_desc": {
+      "value": "developing market; competition from local wellness centers and national brands",
+      "type": "absolute",
+      "item": "FDD Item 1, p.7"
+    },
+    "industry_specific_regulations": {
+      "value": "no industry-specific laws or regulations known to franchisor",
+      "type": "absolute",
+      "item": "FDD Item 1, p.7"
+    },
+    "local_law_responsibility": {
+      "value": "franchisee responsible for investigating and complying with all state/local laws",
+      "type": "absolute",
+      "item": "FDD Item 1, p.7"
+    },
+    "business_name_only": {
+      "value": "does business under name Stretch Recovery Lounge and no other names",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "system_definition": {
+      "value": "specialized business formats and systems called the System, modifiable by franchisor",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "marks_definition": {
+      "value": "trademarks and commercial symbols called the Marks",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "additional_units_require_ada": {
+      "value": "no obligation or right to open additional units unless Area Development Agreement signed",
+      "type": "absolute",
+      "item": "FDD Item 1, p.7"
+    },
+    "ceo_name": {
+      "value": "Jake Feury",
+      "type": "absolute",
+      "item": "FDD Item 2, p.8"
+    },
+    "ceo_title": {
+      "value": "CEO",
+      "type": "absolute",
+      "item": "FDD Item 2, p.8"
+    },
+    "ceo_experience": {
+      "value": "CEO of franchisor and affiliate since Jan 2024 / Oct 2019; Rotational Analyst NFL Jul 2017-Aug 2019; professional rugby player Rugby United New York Jan 2018-Jun 2020",
+      "type": "absolute",
+      "item": "FDD Item 2, p.8"
+    },
+    "other_officers_disclosed": {
+      "value": "no other officers disclosed",
+      "type": "absolute",
+      "item": "FDD Item 2, p.8"
+    },
+    "litigation_disclosure": {
+      "value": "no litigation required to be disclosed",
+      "type": "absolute",
+      "item": "FDD Item 3, p.8"
+    },
+    "bankruptcy_disclosure": {
+      "value": "no bankruptcy information required to be disclosed",
+      "type": "absolute",
+      "item": "FDD Item 4, p.8"
+    },
+    "initial_franchise_fee": {
+      "value": 45000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "initial_franchise_fee_uniform": {
+      "value": true,
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "initial_franchise_fee_due": {
+      "value": "in full when signing the franchise agreement",
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "initial_franchise_fee_refundable": {
+      "value": false,
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "area_development_fee_per_additional": {
+      "value": 25000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "area_development_fee_example_5": {
+      "value": 125000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "area_development_fee_payment_terms": {
+      "value": "1/2 upon signing Area Development Agreement; 1/2 upon signing franchise agreement for the additional territory",
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "area_development_fee_refundable": {
+      "value": false,
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "area_development_min_additional_units": {
+      "value": 1,
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "area_development_max_additional_units": {
+      "value": "no maximum number stated",
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "veterans_discount_fee": {
+      "value": 30000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "veterans_discount_eligible": {
+      "value": "honorably discharged U.S. military veterans",
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "franchisee_discount_fee": {
+      "value": 30000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "franchisee_discount_eligible": {
+      "value": "qualifying Stretch Recovery Lounge franchisees",
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "other_initial_fees": {
+      "value": "no other initial fees required to be paid to franchisor",
+      "type": "absolute",
+      "item": "FDD Item 5, p.8"
+    },
+    "royalty_percent": {
+      "value": 6,
+      "type": "absolute",
+      "item": "FDD Item 6, p.9"
+    },
+    "royalty_base": {
+      "value": "6% of Gross Revenues",
+      "type": "absolute",
+      "item": "FDD Item 6, p.9"
+    },
+    "royalty_due_date": {
+      "value": "5th of each month after opening",
+      "type": "absolute",
+      "item": "FDD Item 6, p.9"
+    },
+    "royalty_payment_method": {
+      "value": "electronic funds transfer",
+      "type": "absolute",
+      "item": "FDD Item 6, p.9"
+    },
+    "national_advertising_percent": {
+      "value": 1,
+      "type": "absolute",
+      "item": "FDD Item 6, p.9"
+    },
+    "national_advertising_currently_collected": {
+      "value": false,
+      "type": "absolute",
+      "item": "FDD Item 6, p.9"
+    },
+    "national_advertising_notice": {
+      "value": "upon 30 days' notice franchisee must begin contributions",
+      "type": "absolute",
+      "item": "FDD Item 6, p.9"
+    },
+    "national_advertising_collected_2024": {
+      "value": 0,
+      "type": "absolute",
+      "item": "FDD Item 6, p.9"
+    },
+    "national_advertising_fund_2024_activity": {
+      "value": "did not collect any contributions in 2024 (Item 11, p29)",
+      "type": "absolute",
+      "item": "FDD Item 11, p.29"
+    },
+    "local_advertising_minimum": {
+      "value": "$500 or 2% of Gross Revenues per month, whichever is greater (suggested spend)",
+      "type": "absolute",
+      "item": "FDD Item 6, p.9"
+    },
+    "regional_coop_cap": {
+      "value": 500,
+      "type": "absolute",
+      "item": "FDD Item 6, p.9"
+    },
+    "regional_coop_current": {
+      "value": "no Regional Advertising Cooperatives currently exist (Item 11, p28)",
+      "type": "absolute",
+      "item": "FDD Item 11, p.28"
+    },
+    "late_fee": {
+      "value": 100,
+      "type": "absolute",
+      "item": "FDD Item 6, p.9"
+    },
+    "late_fee_trigger": {
+      "value": "any payment more than 5 days late",
+      "type": "absolute",
+      "item": "FDD Item 6, p.9"
+    },
+    "interest_rate": {
+      "value": "18% per annum",
+      "type": "absolute",
+      "item": "FDD Item 6, p.10"
+    },
+    "interest_trigger": {
+      "value": "any payment more than 30 days late; accrues from date payment was due",
+      "type": "absolute",
+      "item": "FDD Item 6, p.10"
+    },
+    "delinquent_report_fee": {
+      "value": "$10 per day",
+      "type": "absolute",
+      "item": "FDD Item 6, p.10"
+    },
+    "insurance_reimbursement_fee": {
+      "value": "amount of premium paid by franchisor plus 20%",
+      "type": "absolute",
+      "item": "FDD Item 6, p.10"
+    },
+    "additional_training_daily_rate": {
+      "value": "$500 per day plus travel expenses",
+      "type": "absolute",
+      "item": "FDD Item 6, p.10"
+    },
+    "additional_training_per_attendee": {
+      "value": "$1,500 per attendee (additional training, national conventions, new/replacement managers)",
+      "type": "absolute",
+      "item": "FDD Item 6, p.10"
+    },
+    "national_convention_required": {
+      "value": "franchisee must attend national convention",
+      "type": "absolute",
+      "item": "FDD Item 6, p.13"
+    },
+    "transfer_fee": {
+      "value": 9500,
+      "type": "absolute",
+      "item": "FDD Item 6, p.11"
+    },
+    "transfer_fee_refundable": {
+      "value": false,
+      "type": "absolute",
+      "item": "FDD Item 6, p.11"
+    },
+    "renewal_franchise_fee": {
+      "value": 9500,
+      "type": "absolute",
+      "item": "FDD Item 6, p.11"
+    },
+    "interim_franchise_royalty": {
+      "value": "then-current Royalty Fee plus 2%",
+      "type": "absolute",
+      "item": "FDD Item 6, p.11"
+    },
+    "relocation_fee": {
+      "value": "reimbursement of franchisor's costs and expenses for reviewing/approving relocation",
+      "type": "absolute",
+      "item": "FDD Item 6, p.11"
+    },
+    "supplier_approval_fee": {
+      "value": "reimbursement of costs and expenses franchisor incurs approving a supplier",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "step_in_expenses": {
+      "value": "personnel and administrative and travel costs, plus 15%",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "audit_fee": {
+      "value": "all costs of inspection and audit if initiated due to noncompliance or understatement of Gross Revenues by 3% or more",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "system_standard_violation_costs": {
+      "value": "all costs and expenses of counsel, inspection, support, secret shoppers, enforcement",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "cost_of_enforcement": {
+      "value": "costs including attorney fees if franchisor prevails",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "indemnification": {
+      "value": "franchisee defends suits at own cost; holds franchisor harmless for damages from franchisee's operation",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "sales_tax_on_fees": {
+      "value": "franchisee pays applicable state/local sales or use tax assessed on fees paid to franchisor",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "gross_revenues_definition": {
+      "value": "any and all money and other consideration received in connection with ownership/operation of the Franchised Business and sale of authorized products/services under the Marks; excludes separately stated sales/excise taxes",
+      "type": "absolute",
+      "item": "FDD Item 6, p.13"
+    },
+    "insurance_general_liability": {
+      "value": "$1,000,000 per occurrence / $3,000,000 aggregate",
+      "type": "absolute",
+      "item": "FDD Item 6, p.13"
+    },
+    "insurance_professional_liability": {
+      "value": "$1,000,000 per occurrence / $3,000,000 aggregate",
+      "type": "absolute",
+      "item": "FDD Item 6, p.13"
+    },
+    "insurance_workers_comp": {
+      "value": "Workman's Compensation, Unemployment Compensation, disability, social security as required by law",
+      "type": "absolute",
+      "item": "FDD Item 8, p.21"
+    },
+    "initial_training_tuition": {
+      "value": "tuition-free initial training program",
+      "type": "absolute",
+      "item": "FDD Item 6, p.13"
+    },
+    "initial_training_duration": {
+      "value": "up to 1 week or less depending on experience",
+      "type": "absolute",
+      "item": "FDD Item 6, p.13"
+    },
+    "all_fees_nonrefundable": {
+      "value": "all fees nonrefundable and uniformly imposed on all new franchisees",
+      "type": "absolute",
+      "item": "FDD Item 6, p.14"
+    },
+    "total_investment_min": {
+      "value": 97950,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "total_investment_max": {
+      "value": 170950,
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "facility_sqft": {
+      "value": "400 to 1,500 square feet standalone building or space within shopping center/office building",
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "leasehold_improvements": {
+      "value": "$1,500 to $26,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.15"
+    },
+    "real_estate_rent": {
+      "value": "$3,500 to $10,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.15"
+    },
+    "utility_deposits": {
+      "value": "$0 to $500",
+      "type": "absolute",
+      "item": "FDD Item 7, p.15"
+    },
+    "furniture_fixtures_equipment": {
+      "value": "$8,000 to $19,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.15"
+    },
+    "initial_inventory": {
+      "value": "$1,050 to $1,450",
+      "type": "absolute",
+      "item": "FDD Item 7, p.15"
+    },
+    "insurance_initial": {
+      "value": "$700 to $800",
+      "type": "absolute",
+      "item": "FDD Item 7, p.15"
+    },
+    "signage": {
+      "value": "$2,100 to $6,700",
+      "type": "absolute",
+      "item": "FDD Item 7, p.16"
+    },
+    "office_equipment_supplies": {
+      "value": "$1,200 to $1,300",
+      "type": "absolute",
+      "item": "FDD Item 7, p.16"
+    },
+    "computer_equipment": {
+      "value": "$1,000 to $9,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.16"
+    },
+    "pre_opening_expenses": {
+      "value": "$1,500 to $4,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.16"
+    },
+    "training_travel_costs": {
+      "value": "$0 to $2,500",
+      "type": "absolute",
+      "item": "FDD Item 7, p.16"
+    },
+    "licenses_permits": {
+      "value": "$0 to $500",
+      "type": "absolute",
+      "item": "FDD Item 7, p.16"
+    },
+    "legal_accounting": {
+      "value": "$900 to $1,700",
+      "type": "absolute",
+      "item": "FDD Item 7, p.16"
+    },
+    "grand_opening_advertising": {
+      "value": "$1,500 to $2,500",
+      "type": "absolute",
+      "item": "FDD Item 7, p.16"
+    },
+    "additional_funds_3_months": {
+      "value": "$30,000 to $40,000",
+      "type": "absolute",
+      "item": "FDD Item 7, p.17"
+    },
+    "financing_offered": {
+      "value": "franchisor does not offer direct or indirect financing (Item 10, p26)",
+      "type": "absolute",
+      "item": "FDD Item 10, p.26"
+    },
+    "required_software_stack": {
+      "value": "Google Drive, OpenPhone, MindBody, QuickBooks, Zoho Mail, Google Mail",
+      "type": "absolute",
+      "item": "FDD Item 7, p.18"
+    },
+    "pos_system_required": {
+      "value": "must use franchisor-designated POS system",
+      "type": "absolute",
+      "item": "FDD Item 7, p.18"
+    },
+    "ada_investment_range": {
+      "value": "$25,000 to $125,000 (1 to 5 additional franchises)",
+      "type": "absolute",
+      "item": "FDD Item 7, p.20"
+    },
+    "investment_estimates_basis": {
+      "value": "estimates only; actual costs vary; franchisee should review with a business advisor",
+      "type": "absolute",
+      "item": "FDD Item 7, p.19"
+    },
+    "approved_supplier_purchase_share": {
+      "value": "approximately 85% of establishment purchases/leases and 85% of ongoing operating costs",
+      "type": "absolute",
+      "item": "FDD Item 8, p.22"
+    },
+    "franchisor_revenue_from_suppliers_2024": {
+      "value": 0,
+      "type": "absolute",
+      "item": "FDD Item 8, p.22"
+    },
+    "officer_interest_in_suppliers": {
+      "value": "no officer, director, or manager has an interest in any approved/designated vendor",
+      "type": "absolute",
+      "item": "FDD Item 8, p.22"
+    },
+    "designated_required_purchases": {
+      "value": "QuickBooks, stretching tables, hydrocollator, MindBody, OpenPhone, digital resources, clothing from designated/approved suppliers",
+      "type": "absolute",
+      "item": "FDD Item 8, p.23"
+    },
+    "supplier_approval_timeline": {
+      "value": "notified of approval or disapproval within 30 days of submitting samples/information",
+      "type": "absolute",
+      "item": "FDD Item 8, p.22"
+    },
+    "supplier_approval_criteria_published": {
+      "value": "criteria not published and not made available to franchisees",
+      "type": "absolute",
+      "item": "FDD Item 8, p.22"
+    },
+    "supplier_approval_revocable": {
+      "value": "franchisor may revoke supplier approval upon 30 days' written notice",
+      "type": "absolute",
+      "item": "FDD Item 8, p.22"
+    },
+    "purchase_arrangements_negotiated": {
+      "value": "no negotiated purchase arrangements benefiting franchisees as of FDD date",
+      "type": "absolute",
+      "item": "FDD Item 8, p.23"
+    },
+    "advertising_approval": {
+      "value": "prior written approval required for all advertising displaying the Marks; notified within 15 days of submission",
+      "type": "absolute",
+      "item": "FDD Item 8, p.22"
+    },
+    "gift_card_program_required": {
+      "value": "must participate in all designated gift certificates, loyalty, and gift card programs; may only sell franchisor-issued/approved cards",
+      "type": "absolute",
+      "item": "FDD Item 8, p.22"
+    },
+    "employee_uniforms": {
+      "value": "may be required to wear uniforms conforming to System specifications in Operating Manual",
+      "type": "absolute",
+      "item": "FDD Item 8, p.22"
+    },
+    "obligation_site_selection": {
+      "value": "franchisee selects site; franchisor approves (Franchise Agreement Article II)",
+      "type": "absolute",
+      "item": "FDD Item 9, p.23"
+    },
+    "obligation_training": {
+      "value": "initial and ongoing training per Article VI",
+      "type": "absolute",
+      "item": "FDD Item 9, p.24"
+    },
+    "obligation_fees": {
+      "value": "fees per Article IV / ADA Article II",
+      "type": "absolute",
+      "item": "FDD Item 9, p.24"
+    },
+    "obligation_compliance": {
+      "value": "compliance with standards and policies / operating manual",
+      "type": "absolute",
+      "item": "FDD Item 9, p.24"
+    },
+    "obligation_trademarks": {
+      "value": "trademarks and proprietary information obligations per Article XIII / ADA Article V",
+      "type": "absolute",
+      "item": "FDD Item 9, p.24"
+    },
+    "financing_guarantee": {
+      "value": "franchisor does not guarantee franchisee's note, lease, or obligation",
+      "type": "absolute",
+      "item": "FDD Item 10, p.26"
+    },
+    "site_selection_assistance": {
+      "value": "franchisor does not select site; approves proposed site; provides building specifications; reviews design plans",
+      "type": "absolute",
+      "item": "FDD Item 11, p.26"
+    },
+    "site_approval_period": {
+      "value": "30 days after franchisee submits all required documents and information",
+      "type": "absolute",
+      "item": "FDD Item 11, p.31"
+    },
+    "site_factors": {
+      "value": "general location and neighborhood, competition, trade area demographics, traffic patterns, parking, size, physical characteristics, lease terms",
+      "type": "absolute",
+      "item": "FDD Item 11, p.31"
+    },
+    "opening_deadline": {
+      "value": "secure/approve site within 6 months of signing; open within 1 year of signing",
+      "type": "absolute",
+      "item": "FDD Item 11, p.31"
+    },
+    "ada_opening_timeline": {
+      "value": "additional 6 months to secure site and additional 1 year to open per additional franchise under ADA",
+      "type": "absolute",
+      "item": "FDD Item 11, p.31"
+    },
+    "operating_manual_provided": {
+      "value": "loaned copy of Operating Manual; approximately 150 pages",
+      "type": "absolute",
+      "item": "FDD Item 11, p.26"
+    },
+    "opening_onsite_assistance": {
+      "value": "1 week of free-of-cost onsite assistance upon opening",
+      "type": "absolute",
+      "item": "FDD Item 11, p.26"
+    },
+    "designated_manager_approval": {
+      "value": "franchisor approves the Designated Manager; does not select or hire employees",
+      "type": "absolute",
+      "item": "FDD Item 11, p.26"
+    },
+    "training_program_location": {
+      "value": "Ridgewood, New Jersey, the Franchised Business Site, or virtually",
+      "type": "absolute",
+      "item": "FDD Item 11, p.32"
+    },
+    "training_classroom_hours": {
+      "value": 20,
+      "type": "absolute",
+      "item": "FDD Item 11, p.32"
+    },
+    "training_ojt_hours": {
+      "value": 30,
+      "type": "absolute",
+      "item": "FDD Item 11, p.32"
+    },
+    "training_subjects": {
+      "value": "Operations, Marketing, Human Resources, Sales, Finance, Assisted Stretching",
+      "type": "absolute",
+      "item": "FDD Item 11, p.32"
+    },
+    "training_instructor_ceo": {
+      "value": "Jake Feury, 4 years owning and operating a Stretch Recovery Lounge business",
+      "type": "absolute",
+      "item": "FDD Item 11, p.33"
+    },
+    "training_instructor_lead": {
+      "value": "Herman Gross, Assisted Stretching Lead Trainer, 9 years in the stretch and recovery industry",
+      "type": "absolute",
+      "item": "FDD Item 11, p.33"
+    },
+    "training_attendees_required": {
+      "value": "franchisee, Designated Manager, stretch practitioners, and franchise owner must attend and complete to franchisor's satisfaction",
+      "type": "absolute",
+      "item": "FDD Item 11, p.32"
+    },
+    "replacement_manager_training_fee": {
+      "value": "$1,500 per attendee for new/replacement managers",
+      "type": "absolute",
+      "item": "FDD Item 11, p.32"
+    },
+    "computer_maintenance_annual": {
+      "value": "approximately $500 for maintenance/updating/upgrading/support contracts",
+      "type": "absolute",
+      "item": "FDD Item 11, p.30"
+    },
+    "computer_data_access": {
+      "value": "franchisor has independent access to all information generated and stored on the computer system if requested",
+      "type": "absolute",
+      "item": "FDD Item 11, p.31"
+    },
+    "local_advertising_suggested": {
+      "value": "$500 or 2% of Gross Revenues per month, whichever is greater",
+      "type": "absolute",
+      "item": "FDD Item 11, p.28"
+    },
+    "grand_opening_spend_recommended": {
+      "value": "at least $2,500 during first 3 months of operation",
+      "type": "absolute",
+      "item": "FDD Item 11, p.28"
+    },
+    "franchise_advisory_council": {
+      "value": "not established as of FDD date",
+      "type": "absolute",
+      "item": "FDD Item 11, p.29"
+    },
+    "franchisee_website_prohibition": {
+      "value": "franchisee may not establish or maintain a website displaying the Marks; franchisor controls websites",
+      "type": "absolute",
+      "item": "FDD Item 11, p.28"
+    },
+    "social_media_policy": {
+      "value": "social media allowed per System Standards with franchisor granted administrative access; franchisor owns all related IP",
+      "type": "absolute",
+      "item": "FDD Item 11, p.28"
+    },
+    "advertising_approval_timeline": {
+      "value": "written approval or disapproval within 15 days",
+      "type": "absolute",
+      "item": "FDD Item 11, p.28"
+    },
+    "exclusive_territory": {
+      "value": false,
+      "type": "absolute",
+      "item": "FDD Item 12, p.34"
+    },
+    "territory_definition": {
+      "value": "3 miles or a population of 15,000 persons, whichever is less",
+      "type": "absolute",
+      "item": "FDD Item 12, p.34"
+    },
+    "sales_outside_territory": {
+      "value": "only with franchisor written consent; royalty fees apply to services/products sold",
+      "type": "absolute",
+      "item": "FDD Item 12, p.34"
+    },
+    "territory_protection": {
+      "value": "franchisor agrees not to operate or authorize same Model Concept in Territory during term (with stated reservations)",
+      "type": "absolute",
+      "item": "FDD Item 12, p.34"
+    },
+    "territory_carveouts": {
+      "value": "franchisor reserves rights to operate/license in Special Venues, via alternate channels, to Special Accounts, and acquire competitive systems",
+      "type": "absolute",
+      "item": "FDD Item 12, p.35"
+    },
+    "special_venues_examples": {
+      "value": "malls, colleges, universities, entertainment/sports centers, military bases, transportation facilities, business campuses, health/medical facilities",
+      "type": "absolute",
+      "item": "FDD Item 12, p.35"
+    },
+    "special_accounts": {
+      "value": "franchisor has exclusive right to contract; franchisee gets first option to service at franchisor-negotiated terms",
+      "type": "absolute",
+      "item": "FDD Item 12, p.36"
+    },
+    "trademark_text": {
+      "value": "Stretch Recovery Lounge",
+      "type": "absolute",
+      "item": "FDD Item 13, p.38"
+    },
+    "trademark_serial_number": {
+      "value": "97239946",
+      "type": "absolute",
+      "item": "FDD Item 13, p.38"
+    },
+    "trademark_class": {
+      "value": "IC 044",
+      "type": "absolute",
+      "item": "FDD Item 13, p.38"
+    },
+    "trademark_registration_date": {
+      "value": "2024-01-23",
+      "type": "absolute",
+      "item": "FDD Item 13, p.38"
+    },
+    "trademark_registry": {
+      "value": "Principal",
+      "type": "absolute",
+      "item": "FDD Item 13, p.38"
+    },
+    "trademark_license_terms": {
+      "value": "perpetual license; may only terminate upon franchisor's dissolution; franchisee may lose right to use mark",
+      "type": "absolute",
+      "item": "FDD Item 13, p.38"
+    },
+    "trademark_litigation": {
+      "value": "no effective material determinations, pending interference/opposition/cancellation, or material litigation",
+      "type": "absolute",
+      "item": "FDD Item 13, p.38"
+    },
+    "patents": {
+      "value": "no patents or pending applications material to the franchise",
+      "type": "absolute",
+      "item": "FDD Item 14, p.39"
+    },
+    "copyrights": {
+      "value": "no registered copyrights material; unregistered copyrights in Operating Manual and materials",
+      "type": "absolute",
+      "item": "FDD Item 14, p.39"
+    },
+    "owner_participation_required": {
+      "value": false,
+      "type": "absolute",
+      "item": "FDD Item 15, p.41"
+    },
+    "owner_participation_recommended": {
+      "value": "franchisor strongly recommends personal participation in direct operations",
+      "type": "absolute",
+      "item": "FDD Item 15, p.41"
+    },
+    "designated_manager_required": {
+      "value": "full-time on-premise manager required, franchisor-approved, devotes full time and energy",
+      "type": "absolute",
+      "item": "FDD Item 15, p.41"
+    },
+    "manager_ownership_required": {
+      "value": "manager need not have an ownership interest",
+      "type": "absolute",
+      "item": "FDD Item 15, p.41"
+    },
+    "manager_restrictive_agreements": {
+      "value": "confidentiality, non-solicitation, and non-competition agreement required",
+      "type": "absolute",
+      "item": "FDD Item 15, p.41"
+    },
+    "noncompete_terms": {
+      "value": "no competing during term; within 25 miles of any Stretch Recovery Lounge territory for 2 years after expiration/termination",
+      "type": "absolute",
+      "item": "FDD Item 15, p.41"
+    },
+    "personal_guaranty_required": {
+      "value": "all owners must personally guarantee franchisee's obligations",
+      "type": "absolute",
+      "item": "FDD Item 15, p.41"
+    },
+    "step_in_right": {
+      "value": "franchisor may step in to operate the Franchised Business when deemed necessary",
+      "type": "absolute",
+      "item": "FDD Item 15, p.41"
+    },
+    "products_services_restriction": {
+      "value": "only authorized products and services per Operating Manual or written designation",
+      "type": "absolute",
+      "item": "FDD Item 16, p.41"
+    },
+    "franchisor_may_change_offerings": {
+      "value": "franchisor may change, add, and delete products or services at any time",
+      "type": "absolute",
+      "item": "FDD Item 16, p.41"
+    },
+    "internet_sales_restriction": {
+      "value": "no right to use internet, catalog, telemarketing, or other direct marketing without written consent",
+      "type": "absolute",
+      "item": "FDD Item 16, p.41"
+    },
+    "initial_term_years": {
+      "value": 10,
+      "type": "absolute",
+      "item": "FDD Item 17, p.42"
+    },
+    "renewal_term_years": {
+      "value": 10,
+      "type": "absolute",
+      "item": "FDD Item 17, p.42"
+    },
+    "renewal_notice_period": {
+      "value": "written notice between 6 months and 1 year before end of term",
+      "type": "absolute",
+      "item": "FDD Item 17, p.42"
+    },
+    "renewal_conditions": {
+      "value": "no default; site rights; refurbish to then-current standards; sign then-current agreement; pay $9,500 renewal fee; meet qualifications",
+      "type": "absolute",
+      "item": "FDD Item 17, p.42"
+    },
+    "renewal_agreement_terms": {
+      "value": "successor agreement may have materially different terms and conditions",
+      "type": "absolute",
+      "item": "FDD Item 17, p.42"
+    },
+    "termination_by_franchisee": {
+      "value": "franchisor considered in default if it breaches material obligations and fails to cure within 60 days of written notice",
+      "type": "absolute",
+      "item": "FDD Item 17, p.43"
+    },
+    "termination_without_cause_by_franchisor": {
+      "value": "not applicable; franchisor can terminate only if franchisee defaults",
+      "type": "absolute",
+      "item": "FDD Item 17, p.43"
+    },
+    "cure_period_payment_default": {
+      "value": "10 days after written notice",
+      "type": "absolute",
+      "item": "FDD Item 17, p.43"
+    },
+    "transfer_consent_required": {
+      "value": "franchisor consent required; $9,500 transfer fee; nonrefundable",
+      "type": "absolute",
+      "item": "FDD Item 17, p.52"
+    },
+    "dispute_resolution": {
+      "value": "mandatory binding arbitration in Morris County, New Jersey",
+      "type": "absolute",
+      "item": "FDD Item 17, p.48"
+    },
+    "choice_of_forum": {
+      "value": "suits litigated in courts within Morris County, New Jersey",
+      "type": "absolute",
+      "item": "FDD Item 17, p.48"
+    },
+    "choice_of_law": {
+      "value": "New Jersey",
+      "type": "absolute",
+      "item": "FDD Item 17, p.48"
+    },
+    "bankruptcy_termination_note": {
+      "value": "termination upon franchisee bankruptcy may not be enforceable under federal bankruptcy law",
+      "type": "absolute",
+      "item": "FDD Item 17, p.48"
+    },
+    "public_figures": {
+      "value": "franchisor does not use any public figures to promote the franchise",
+      "type": "absolute",
+      "item": "FDD Item 18, p.53"
+    },
+    "item19_basis": {
+      "value": "monthly Total Revenues for calendar year 2024 of company-owned outlets only; no operational franchisees during the period",
+      "type": "absolute",
+      "item": "FDD Item 19, p.57"
+    },
+    "item19_outlet_count": {
+      "value": 6,
+      "type": "absolute",
+      "item": "FDD Item 19, p.53"
+    },
+    "item19_outlet_names": {
+      "value": "Ridgewood, Tenafly, Westfield, Montclair, Hoboken, NYC Upper East Side",
+      "type": "absolute",
+      "item": "FDD Item 19, p.53"
+    },
+    "item19_revenue_definition": {
+      "value": "total revenue derived from sale of goods or services less sales tax, discounts, allowances, and returns",
+      "type": "absolute",
+      "item": "FDD Item 19, p.57"
+    },
+    "item19_ridgewood_annual": {
+      "value": 368588,
+      "type": "absolute",
+      "item": "FDD Item 19, p.53"
+    },
+    "item19_tenafly_annual": {
+      "value": 286547,
+      "type": "absolute",
+      "item": "FDD Item 19, p.54"
+    },
+    "item19_westfield_annual": {
+      "value": 217856,
+      "type": "absolute",
+      "item": "FDD Item 19, p.55"
+    },
+    "item19_montclair_annual": {
+      "value": 168693,
+      "type": "absolute",
+      "item": "FDD Item 19, p.55"
+    },
+    "item19_hoboken_annual": {
+      "value": 297316,
+      "type": "absolute",
+      "item": "FDD Item 19, p.56"
+    },
+    "item19_nyc_ues_annual": {
+      "value": 105661,
+      "type": "absolute",
+      "item": "FDD Item 19, p.56"
+    },
+    "item19_average_annual": {
+      "value": 240777,
+      "type": "absolute",
+      "item": "FDD Item 19, p.56"
+    },
+    "item19_annual_range": {
+      "value": "$105,661 to $368,588",
+      "type": "absolute",
+      "item": "FDD Item 19, p.56"
+    },
+    "item19_annual_method": {
+      "value": "sum of 12 monthly Total Revenue rows per outlet; average is mean of 6 outlet annuals",
+      "type": "absolute",
+      "item": "FDD Item 19, p.56"
+    },
+    "item19_disclaimer": {
+      "value": "some outlets have sold this amount; individual results may differ; no assurance you will sell as much",
+      "type": "absolute",
+      "item": "FDD Item 19, p.57"
+    },
+    "item20_franchised_start_2022": {
+      "value": 0,
+      "type": "absolute",
+      "item": "FDD Item 20, p.58"
+    },
+    "item20_franchised_end_2024": {
+      "value": 0,
+      "type": "absolute",
+      "item": "FDD Item 20, p.58"
+    },
+    "item20_company_owned_end_2022": {
+      "value": 4,
+      "type": "absolute",
+      "item": "FDD Item 20, p.58"
+    },
+    "item20_company_owned_end_2023": {
+      "value": 6,
+      "type": "absolute",
+      "item": "FDD Item 20, p.58"
+    },
+    "item20_company_owned_end_2024": {
+      "value": 6,
+      "type": "absolute",
+      "item": "FDD Item 20, p.58"
+    },
+    "item20_company_owned_opened_2022": {
+      "value": 1,
+      "type": "absolute",
+      "item": "FDD Item 20, p.59"
+    },
+    "item20_company_owned_opened_2023": {
+      "value": 2,
+      "type": "absolute",
+      "item": "FDD Item 20, p.59"
+    },
+    "item20_company_owned_opened_2024": {
+      "value": 0,
+      "type": "absolute",
+      "item": "FDD Item 20, p.59"
+    },
+    "item20_company_owned_closed_2022_2024": {
+      "value": 0,
+      "type": "absolute",
+      "item": "FDD Item 20, p.59"
+    },
+    "item20_transfers_2022_2024": {
+      "value": 0,
+      "type": "absolute",
+      "item": "FDD Item 20, p.58"
+    },
+    "item20_franchisee_list": {
+      "value": "no franchisees as of FDD date; Exhibit H list has no entries",
+      "type": "absolute",
+      "item": "FDD Item 20, p.59"
+    },
+    "item20_projected_franchised_nj": {
+      "value": 1,
+      "type": "absolute",
+      "item": "FDD Item 20, p.59"
+    },
+    "item20_projected_franchised_pa": {
+      "value": 1,
+      "type": "absolute",
+      "item": "FDD Item 20, p.59"
+    },
+    "item20_projected_franchised_total": {
+      "value": 2,
+      "type": "absolute",
+      "item": "FDD Item 20, p.59"
+    },
+    "item20_projected_company_owned": {
+      "value": 1,
+      "type": "absolute",
+      "item": "FDD Item 20, p.59"
+    },
+    "item20_signed_not_opened": {
+      "value": 1,
+      "type": "absolute",
+      "item": "FDD Item 20, p.59"
+    },
+    "item20_projections_basis": {
+      "value": "estimate only; no assurance actual openings match",
+      "type": "absolute",
+      "item": "FDD Item 20, p.59"
+    },
+    "financials_period": {
+      "value": "audited financials from January 19, 2024 (inception) to December 31, 2024 (Exhibit I)",
+      "type": "absolute",
+      "item": "FDD Item 21, p.60"
+    },
+    "financials_3yr_history": {
+      "value": "franchisor not in business 3+ years; cannot include all required financial statements",
+      "type": "absolute",
+      "item": "FDD Item 21, p.60"
+    },
+    "fiscal_year_end": {
+      "value": "December 31",
+      "type": "absolute",
+      "item": "FDD Item 21, p.60"
+    },
+    "contract_exhibits": {
+      "value": "Franchise Agreement, Area Development Agreement, Personal Guaranty, Restrictive Covenant Agreement, Power of Attorney to assign telephone number",
+      "type": "absolute",
+      "item": "FDD Item 22, p.61"
+    },
+    "fdd_issuance_date": {
+      "value": "2025-07-17",
+      "type": "absolute",
+      "item": "FDD Item 23, p.63"
+    },
+    "franchise_seller_name": {
+      "value": "Jake Feury, CEO",
+      "type": "absolute",
+      "item": "FDD Item 23, p.63"
+    },
+    "franchise_seller_address": {
+      "value": "6 Ivy Crest Lane, Rockaway, NJ 07866",
+      "type": "absolute",
+      "item": "FDD Item 23, p.63"
+    },
+    "franchise_seller_phone": {
+      "value": "201-274-6726",
+      "type": "absolute",
+      "item": "FDD Item 23, p.63"
+    },
+    "fdd_delivery_rule": {
+      "value": "at least 14 calendar days before signing or payment",
+      "type": "absolute",
+      "item": "FDD Item 23, p.63"
+    },
+    "corporate_city": {
+      "value": "Rockaway",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "corporate_state": {
+      "value": "NJ",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "corporate_zip": {
+      "value": "07866",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "corporate_address": {
+      "value": "6 Ivy Crest Lane, Rockaway, NJ 07866",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "brand_display_name": {
+      "value": "Stretch Recovery Lounge",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "brand_category": {
+      "value": "Health & Fitness - Assisted Stretching",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "brand_website": {
+      "value": "https://stretchrecoverylounge.com",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "brand_founded_year": {
+      "value": 2019,
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "brand_franchising_since_year": {
+      "value": 2024,
+      "type": "absolute",
+      "item": "FDD Item 1, p.7"
+    },
+    "brand_description": {
+      "value": "Stretch Recovery Lounge is an assisted-stretching and athletic-recovery franchise founded in New Jersey in 2019. Its studios offer one-on-one practitioner-assisted stretching and recovery services to clients ages 5 and up, with a core clientele of adults ages 40 to 65. The franchisor, Stretch Recovery Lounge Franchising LLC, began offering franchises in January 2024 and operates company-owned studios in New Jersey and New York. The franchise model is a 400 to 1,500 sq ft facility with a protected 3-mile or 15,000-population territory, a $45,000 initial franchise fee, a 6% royalty, and an estimated initial investment of $97,950 to $170,950.",
+      "type": "absolute",
+      "item": "FDD Item 1, p.6"
+    },
+    "risk_score": {
+      "value": 61,
+      "type": "theoretical",
+      "method": "method: weighted composite 0-100 (higher=riskier): system maturity 90 x .25 + item-19 franchisee evidence 85 x .25 + fee burden 45 x .15 + territory protection 55 x .15 + litigation/bankruptcy 5 x .10 + closure history 15 x .10 = 60.75 -> 61"
+    },
+    "closure_rate_estimate": {
+      "value": "0% observed 2022-2024 across company-owned outlets; franchisee closure rate insufficient-data (0 franchised outlets at FDD date)",
+      "type": "theoretical",
+      "method": "method: Item 20 tables pp58-59; no franchisee base to observe"
+    },
+    "payback_estimate": {
+      "value": "insufficient-data: no franchisee-level earnings or cost data disclosed in FDD",
+      "type": "theoretical",
+      "method": "method: would require Item 19 franchisee P&L; only company-owned revenue disclosed"
+    },
+    "fee_burden_effective": {
+      "value": "approximately 9% of gross (6% royalty + up to 1% national advertising + ~2% local advertising suggested)",
+      "type": "theoretical",
+      "method": "method: sum of Item 6 fee rates pp9,28"
+    },
+    "saturation_estimate": {
+      "value": "insufficient-data: 8 open locations all in NJ/NYC metro; franchisor makes no saturation representation",
+      "type": "theoretical",
+      "method": "method: official finder 2026-09-12 vs FDD Item 20"
+    },
+    "support_quality_score": {
+      "value": "moderate: tuition-free initial training (20 classroom + 30 OJT hours), 1 week free onsite opening support, designated software stack; no national ad fund collection or FAC as of FDD date",
+      "type": "theoretical",
+      "method": "method: Item 11 pp26-33 scored 6/10 on published 10-point rubric in signature.json"
+    },
+    "trend_signal": {
+      "value": "early-stage expansion: company-owned 3->6 (2022-2024); web footprint 6 (Item 20) -> 8 (official finder, Sep 2026); 2 projected franchised + 1 projected company-owned in Table 5",
+      "type": "theoretical",
+      "method": "method: Item 20 p59 + official finder"
+    },
+    "item19_confidence": {
+      "value": "MODERATE-WEAK: company-owned outlets only, n=6, no operational franchisees in the period, one NYC outlier well below the NJ cluster",
+      "type": "theoretical",
+      "method": "method: Item 19 pp53-57"
+    },
+    "financials_numeric_detail": {
+      "value": "insufficient-data: Exhibit I financial statements are scanned images in the PDF; no text-extractable figures",
+      "type": "theoretical",
+      "method": "method: Item 21 p60 text confirms audited period; OCR not performed per DIY cost/benefit"
+    },
+    "fit_capital": {
+      "value": "needs $97,950 to $170,950 all-in; $45,000 initial fee; $30,000 veteran/franchisee discounted fee available",
+      "type": "matching",
+      "method": "fit-profile key, derived from absolute fields"
+    },
+    "fit_experience": {
+      "value": "no prior stretch/wellness experience required; full-time franchisor-approved Designated Manager required",
+      "type": "matching",
+      "method": "fit-profile key, derived from absolute fields"
+    },
+    "fit_operational": {
+      "value": "semi-absentee possible: personal participation not required (strongly recommended); manager runs daily operations",
+      "type": "matching",
+      "method": "fit-profile key, derived from absolute fields"
+    },
+    "fit_lifestyle": {
+      "value": "wellness/health-services owner-operator profile; 400-1,500 sq ft retail/office site",
+      "type": "matching",
+      "method": "fit-profile key, derived from absolute fields"
+    },
+    "fit_risk": {
+      "value": "early-stage system: 0 franchised outlets at FDD date; all historical performance from company-owned outlets",
+      "type": "matching",
+      "method": "fit-profile key, derived from absolute fields"
+    },
+    "fit_location": {
+      "value": "suburban NJ/NYC-metro footprint; shopping-center or office-building space per Item 7 note 2",
+      "type": "matching",
+      "method": "fit-profile key, derived from absolute fields"
+    },
+    "fit_timeline": {
+      "value": "site secured/approved within 6 months of signing; open within 1 year",
+      "type": "matching",
+      "method": "fit-profile key, derived from absolute fields"
+    },
+    "fit_territory": {
+      "value": "protected 3-mile / 15,000-population territory (non-exclusive system; franchisor carve-outs for special venues/accounts)",
+      "type": "matching",
+      "method": "fit-profile key, derived from absolute fields"
+    },
+    "netWorthRequirement": "not disclosed in FDD",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirement": "not disclosed in FDD",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "pinVerification": {
+      "run_at": "2026-09-13T01:47:03Z",
+      "all_verified": true,
+      "pins_total": 8
+    },
+    "pinsUpdatedAt": "2026-09-13T01:47:03Z"
+  },
+  "extractor": "miner=stretch-recovery-build",
+  "extraction_timestamp_utc": "2026-09-13T00:00:48.994707+00:00",
+  "fdd_filename": "stretch-recovery-fdd-2025.pdf",
+  "fdd_sha256": "23c98ddeaed545ef3039a668927d424a9e73781a221b9c797afed8e9ee4c3431",
+  "live_url": "https://bennett-maxwell.github.io/stretch-recovery-az/",
+  "netWorthRequirement": "not disclosed in FDD",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirement": "not disclosed in FDD",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "pinVerification": {
+    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
+    "run_at": "2026-09-13T01:47:03Z",
+    "pins_total": 8,
+    "pins_verified": 8,
+    "pins_unverifiable": 0,
+    "pins_mismatch": 0,
+    "all_verified": true,
+    "per_pin": [
+      {
+        "pin": 0,
+        "city": "Bridgewater",
+        "state": "NJ",
+        "stored": [
+          40.5935,
+          -74.6252
+        ],
+        "geocoded": [
+          40.5931225,
+          -74.604954
+        ],
+        "distance_km": 1.71,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 1,
+        "city": "Hoboken",
+        "state": "NJ",
+        "stored": [
+          40.739603,
+          -74.030875
+        ],
+        "geocoded": [
+          40.7433066,
+          -74.0323752
+        ],
+        "distance_km": 0.43,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 2,
+        "city": "Maplewood",
+        "state": "NJ",
+        "stored": [
+          40.7204559,
+          -74.2719025
+        ],
+        "geocoded": [
+          40.7312123,
+          -74.2734808
+        ],
+        "distance_km": 1.2,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 3,
+        "city": "Montclair",
+        "state": "NJ",
+        "stored": [
+          40.822131,
+          -74.21995
+        ],
+        "geocoded": [
+          40.8164458,
+          -74.2210643
+        ],
+        "distance_km": 0.64,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 4,
+        "city": "New York City",
+        "state": "NY",
+        "stored": [
+          40.7637324,
+          -73.960641
+        ],
+        "geocoded": [
+          40.7127281,
+          -74.0060152
+        ],
+        "distance_km": 6.84,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 5,
+        "city": "Ridgewood",
+        "state": "NJ",
+        "stored": [
+          40.979107,
+          -74.122793
+        ],
+        "geocoded": [
+          40.9796683,
+          -74.1194403
+        ],
+        "distance_km": 0.29,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 6,
+        "city": "Tenafly",
+        "state": "NJ",
+        "stored": [
+          40.92728,
+          -73.966579
+        ],
+        "geocoded": [
+          40.9253766,
+          -73.9629154
+        ],
+        "distance_km": 0.37,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 7,
+        "city": "Westfield",
+        "state": "NJ",
+        "stored": [
+          40.648753,
+          -74.346367
+        ],
+        "geocoded": [
+          40.651726,
+          -74.3483059
+        ],
+        "distance_km": 0.37,
+        "status": "VERIFIED"
+      }
+    ]
+  },
+  "pinsUpdatedAt": "2026-09-13T01:47:03Z",
+  "risk_score": 61,
+  "risk_method": "system_maturity 90x0.25 + item19_franchisee_evidence 85x0.25 + fee_burden 45x0.15 + territory_protection 55x0.15 + litigation_bankruptcy 5x0.10 + closure_history 15x0.10 = 60.75 -> 61 (weighted composite, higher=riskier; source: builder fields.risk_score method)",
+  "risk_components": [
+    {
+      "name": "system_maturity",
+      "weight": 0.25,
+      "note": "builder theoretical subscore"
+    },
+    {
+      "name": "item19_franchisee_evidence",
+      "weight": 0.25,
+      "note": "builder theoretical subscore"
+    },
+    {
+      "name": "fee_burden",
+      "weight": 0.15,
+      "note": "builder theoretical subscore"
+    },
+    {
+      "name": "territory_protection",
+      "weight": 0.15,
+      "note": "builder theoretical subscore"
+    },
+    {
+      "name": "litigation_bankruptcy",
+      "weight": 0.1,
+      "note": "builder theoretical subscore"
+    },
+    {
+      "name": "closure_history",
+      "weight": 0.1,
+      "note": "builder theoretical subscore"
+    }
+  ],
+  "risk_source": "fields.risk_score method (builder theoretical)"
+}
