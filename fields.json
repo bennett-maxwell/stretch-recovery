@@ -13,14 +13,14 @@
   "corporateState": "NJ",
   "corporateZip": "07866",
   "corporateAddress": "6 Ivy Crest Lane, Rockaway, NJ 07866",
-  "hq_source": "FDD Item 1, p6 \u2014 franchisor principal office",
+  "hq_source": "FDD Item 1, p6 — franchisor principal office",
   "description": "Stretch Recovery Lounge is an assisted-stretching and athletic-recovery franchise founded in New Jersey in 2019. Its studios offer one-on-one practitioner-assisted stretching and recovery services to clients ages 5 and up, with a core clientele of adults ages 40 to 65. The franchisor, Stretch Recovery Lounge Franchising LLC, began offering franchises in January 2024 and operates company-owned studios in New Jersey and New York. The franchise model is a 400 to 1,500 sq ft facility with a protected 3-mile or 15,000-population territory, a $45,000 initial franchise fee, a 6% royalty, and an estimated initial investment of $97,950 to $170,950.",
   "category": "Health & Fitness - Assisted Stretching",
   "websiteUrl": "https://stretchrecoverylounge.com",
   "yearFounded": 2019,
   "yearFranchising": 2024,
   "fddYear": 2025,
-  "territoryDescription": "3 miles or a population of 15,000 persons, whichever is less. Non-exclusive system with franchisor carve-outs (FDD Item 12, pp34-36).",
+  "territoryDescription": "3 miles or a population of 15,000 persons, whichever is less. Non-exclusive system with franchisor carve-outs (FDD Item 12, pp34-36). FDD Item 20 Table 1 (p53) lists 6 outlets as of 2024-12-31; 8 current locations are mapped (6 + 2 opened since the FDD date, per the record reconciliation).",
   "item12": "3 miles or 15,000 population, whichever is less (FDD Item 12, p34)",
   "item20PinCount": 8,
   "item20_fdd_count": 6,
@@ -1394,15 +1394,15 @@
       "method": "fit-profile key, derived from absolute fields"
     },
     "netWorthRequirement": "not disclosed in FDD",
-    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
     "liquidCapitalRequirement": "not disclosed in FDD",
-    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
     "pinVerification": {
-      "run_at": "2026-09-13T01:47:03Z",
+      "run_at": "2026-09-15T04:31:57Z",
       "all_verified": true,
       "pins_total": 8
     },
-    "pinsUpdatedAt": "2026-09-13T01:47:03Z"
+    "pinsUpdatedAt": "2026-09-15T04:31:57Z"
   },
   "extractor": "miner=stretch-recovery-build",
   "extraction_timestamp_utc": "2026-09-13T00:00:48.994707+00:00",
@@ -1410,16 +1410,16 @@
   "fdd_sha256": "23c98ddeaed545ef3039a668927d424a9e73781a221b9c797afed8e9ee4c3431",
   "live_url": "https://bennett-maxwell.github.io/stretch-recovery-az/",
   "netWorthRequirement": "not disclosed in FDD",
-  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
   "liquidCapitalRequirement": "not disclosed in FDD",
-  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
   "pinVerification": {
-    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode; 50km tolerance",
-    "run_utc": "2026-09-15T02:53:07.901388+00:00",
+    "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
+    "run_at": "2026-09-15T04:31:57Z",
     "pins_total": 8,
     "pins_verified": 8,
-    "pins_mismatch": 0,
     "pins_unverifiable": 0,
+    "pins_mismatch": 0,
     "all_verified": true,
     "per_pin": [
       {
@@ -1431,11 +1431,10 @@
           -74.6252
         ],
         "geocoded": [
-          40.559813,
-          -74.551715
+          40.5931225,
+          -74.604954
         ],
-        "geocode_query": "Bridgewater, New Jersey, United States",
-        "distance_km": 7.25,
+        "distance_km": 1.71,
         "status": "VERIFIED"
       },
       {
@@ -1447,10 +1446,9 @@
           -74.030875
         ],
         "geocoded": [
-          40.743307,
-          -74.032375
+          40.7433066,
+          -74.0323752
         ],
-        "geocode_query": "Hoboken, New Jersey, United States",
         "distance_km": 0.43,
         "status": "VERIFIED"
       },
@@ -1463,10 +1461,9 @@
           -74.2719025
         ],
         "geocoded": [
-          40.731212,
-          -74.273481
+          40.7312123,
+          -74.2734808
         ],
-        "geocode_query": "Maplewood, New Jersey, United States",
         "distance_km": 1.2,
         "status": "VERIFIED"
       },
@@ -1479,27 +1476,25 @@
           -74.21995
         ],
         "geocoded": [
-          40.816446,
-          -74.221064
+          40.8164458,
+          -74.2210643
         ],
-        "geocode_query": "Montclair, New Jersey, United States",
         "distance_km": 0.64,
         "status": "VERIFIED"
       },
       {
         "pin": 4,
-        "city": "NYC Upper East",
+        "city": "New York City",
         "state": "NY",
         "stored": [
           40.7637324,
           -73.960641
         ],
         "geocoded": [
-          40.771138,
-          -73.950849
+          40.7127281,
+          -74.0060152
         ],
-        "geocode_query": "NYC Upper East, New York, United States",
-        "distance_km": 1.17,
+        "distance_km": 6.84,
         "status": "VERIFIED"
       },
       {
@@ -1511,10 +1506,9 @@
           -74.122793
         ],
         "geocoded": [
-          40.979668,
-          -74.11944
+          40.9796683,
+          -74.1194403
         ],
-        "geocode_query": "Ridgewood, New Jersey, United States",
         "distance_km": 0.29,
         "status": "VERIFIED"
       },
@@ -1527,10 +1521,9 @@
           -73.966579
         ],
         "geocoded": [
-          40.925377,
-          -73.962915
+          40.9253766,
+          -73.9629154
         ],
-        "geocode_query": "Tenafly, New Jersey, United States",
         "distance_km": 0.37,
         "status": "VERIFIED"
       },
@@ -1544,15 +1537,14 @@
         ],
         "geocoded": [
           40.651726,
-          -74.348306
+          -74.3483059
         ],
-        "geocode_query": "Westfield, New Jersey, United States",
         "distance_km": 0.37,
         "status": "VERIFIED"
       }
     ]
   },
-  "pinsUpdatedAt": "2026-09-15T02:53:07.901388+00:00",
+  "pinsUpdatedAt": "2026-09-15T04:31:57Z",
   "risk_score": 61,
   "risk_method": "base 0 + system_maturity 22.5 + item19_franchisee_evidence 21.25 + fee_burden 6.75 + territory_protection 8.25 + litigation_bankruptcy 0.5 + closure_history 1.5 = 60.75 -> 61",
   "risk_components": [
@@ -1590,5 +1582,8 @@
   "risk_source": "fields.risk_score method (builder theoretical)",
   "logoUrl": "https://stretchrecoverylounge.com/wp-content/uploads/2022/02/logo-header.png",
   "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*",
-  "risk_method_original_2026_09_14": "system_maturity 90x0.25 + item19_franchisee_evidence 85x0.25 + fee_burden 45x0.15 + territory_protection 55x0.15 + litigation_bankruptcy 5x0.10 + closure_history 15x0.10 = 60.75 -> 61 (weighted composite, higher=riskier; source: builder fields.risk_score method)"
+  "risk_method_original_2026_09_14": "system_maturity 90x0.25 + item19_franchisee_evidence 85x0.25 + fee_burden 45x0.15 + territory_protection 55x0.15 + litigation_bankruptcy 5x0.10 + closure_history 15x0.10 = 60.75 -> 61 (weighted composite, higher=riskier; source: builder fields.risk_score method)",
+  "adFee": "1%",
+  "adFeeNote": "FDD Item 6: National Advertising Contributions 1% of Gross Revenues (not currently collected; 30 days notice); Local Advertising $500 or 2%/mo whichever greater; Regional co-op up to $500.",
+  "territoryType": "non-exclusive"
 }
