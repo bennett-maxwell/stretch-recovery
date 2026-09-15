@@ -1,5 +1,5 @@
 {
-  "slug": "stretch-recovery-az",
+  "slug": "stretch-recovery",
   "brand": "Stretch Recovery Lounge",
   "field_count": 259,
   "franchiseFee": 45000,
@@ -13,7 +13,7 @@
   "corporateState": "NJ",
   "corporateZip": "07866",
   "corporateAddress": "6 Ivy Crest Lane, Rockaway, NJ 07866",
-  "hq_source": "FDD Item 1, p6 — franchisor principal office",
+  "hq_source": "FDD Item 1, p6 \u2014 franchisor principal office",
   "description": "Stretch Recovery Lounge is an assisted-stretching and athletic-recovery franchise founded in New Jersey in 2019. Its studios offer one-on-one practitioner-assisted stretching and recovery services to clients ages 5 and up, with a core clientele of adults ages 40 to 65. The franchisor, Stretch Recovery Lounge Franchising LLC, began offering franchises in January 2024 and operates company-owned studios in New Jersey and New York. The franchise model is a 400 to 1,500 sq ft facility with a protected 3-mile or 15,000-population territory, a $45,000 initial franchise fee, a 6% royalty, and an estimated initial investment of $97,950 to $170,950.",
   "category": "Health & Fitness - Assisted Stretching",
   "websiteUrl": "https://stretchrecoverylounge.com",
@@ -1394,9 +1394,9 @@
       "method": "fit-profile key, derived from absolute fields"
     },
     "netWorthRequirement": "not disclosed in FDD",
-    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "liquidCapitalRequirement": "not disclosed in FDD",
-    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+    "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
     "pinVerification": {
       "run_at": "2026-09-15T04:31:57Z",
       "all_verified": true,
@@ -1410,9 +1410,9 @@
   "fdd_sha256": "23c98ddeaed545ef3039a668927d424a9e73781a221b9c797afed8e9ee4c3431",
   "live_url": "https://bennett-maxwell.github.io/stretch-recovery-az/",
   "netWorthRequirement": "not disclosed in FDD",
-  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "netWorthRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "liquidCapitalRequirement": "not disclosed in FDD",
-  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) — genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirementNote": "Independent verifier grep of the source FDD text found zero net-worth/liquid-capital requirement language (2026-09-13) \u2014 genuinely undisclosed in FDD, not missing data.",
   "pinVerification": {
     "method": "Nominatim forward-geocode of each unique pin (city, state); haversine vs stored coords; tolerance 50.0km",
     "run_at": "2026-09-15T04:31:57Z",
